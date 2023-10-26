@@ -1,18 +1,8 @@
 # Face Recognition Attendance System
 
-![Project Image](images/project_image.png)
+![Project Image]screenshot/Screenshot 2023-10-26 21.20.30.png)
 
 This is a Face Recognition Attendance System that uses face recognition to record attendance and update the data in a Firebase database.
-
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -30,7 +20,7 @@ The Face Recognition Attendance System is designed to automate the attendance re
 
 You can view a demo of the system in action by clicking [here](https://www.example.com/demo).
 
-![Demo Image](images/demo_image.png)
+![Demo Image](screenshot/Screenshot 2023-10-26 21.20.30.png)
 
 ## Installation
 
