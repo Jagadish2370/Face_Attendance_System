@@ -18,7 +18,7 @@ The Face Recognition Attendance System is designed to automate the attendance re
 
 ## Demo
 
-You can view a demo of the system in action by clicking [here](https://www.example.com/demo).
+You can view a demo of the system in action by clicking [here]([https://www.example.com/demo](https://www.linkedin.com/posts/dhage-jagadish-89420522a_hello-connections-i-have-created-a-faceattendancesystem-activity-7123345923492962304-9QbM?utm_source=share&utm_medium=member_desktop)).
 
 ![Demo Image](screenshot/Screenshot 2023-10-26 21.20.30.png)
 
