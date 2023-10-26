@@ -1,6 +1,6 @@
 # Face Recognition Attendance System
 
-![Project Image]screenshot/Sc.png)
+
 
 This is a Face Recognition Attendance System that uses face recognition to record attendance and update the data in a Firebase database.
 
